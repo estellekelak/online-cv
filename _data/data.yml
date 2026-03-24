@@ -44,10 +44,12 @@ sidebar:
       - item: Gestion de projets complexes
       - item: Financements publics & mécénat
       - item: Coordination multi‑acteurs
-      - item: Communication institutionnelle
-      - item: Administration Office 365 / SharePoint
+      - item: Communication & stratégie éditoriale
+      - item: Ingénierie pédagogique
       - item: Analyse d’impact & RSO
       - item: Organisation & structuration interne
+      - item: Gestion, financement et comptabilité
+
       
   softskills:
     title: Soft skills
@@ -226,30 +228,27 @@ skills:
   title: Compétences
 
   toolset:
-    - name: Ingénierie & design pédagogique
+    - name: Gestion de projets & coordination
       level: 100%
-    - name: Conception de formations
+    - name: Financements publics & montage de dossiers
       level: 100%
-    - name: Animation & gestion de groupe
+    - name: Mécénat & partenariats entreprises
       level: 100%
-    - name: Comptabilité générale
-      level: 100%
-    - name: Fiscalité
-      level: 100%
-    - name: Gestion d’entreprise
-      level: 100%
-    - name: Financement de projets d’investissement
-      level: 100%
-    - name: Outils collaboratifs (Teams, Zoom, Discord)
+    - name: Communication institutionnelle & stratégie éditoriale
       level: 95%
-    - name: Bureautique (Word, Excel, PowerPoint, Outlook)
+    - name: Ingénierie pédagogique & animation
+      level: 100%
+    - name: Comptabilité – Gestion – Analyse financière
       level: 95%
-    - name: Création graphique (Indesign, Illustrator, Publisher)
+    - name: Administration Office 365 / SharePoint / AzureAD
       level: 90%
-    - name: Outils numériques (Genial.ly, Wordpress, Filmora)
+    - name: Outils collaboratifs & travail en équipe
+      level: 95%
+    - name: Création de contenus & supports professionnels
       level: 90%
-    - name: Informatique (AnyDesk, Teamviewer)
+    - name: Transition écologique & impact social
       level: 85%
+
 
 projects:
   title: Réalisations
