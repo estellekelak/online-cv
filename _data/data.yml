@@ -251,24 +251,22 @@ skills:
       level: 85%
 
 
-projects:
+projets:
   title: Réalisations
-  intro: ""
-  assignments:
-    - title: Obtention appel d’offres AGEFICE
-      tagline: "Pour BGE Parif"
-    - title: Cession de Coplo Ingénierie
-      tagline: "Évaluation financière et vente du fonds"
-    - title: Développement pôle solutions innovantes BTP
-      tagline: "Pilotage et structuration d’un pôle d’activités"
-    - title: Financement clients bâtiments industriels
-      tagline: "Montage et obtention des financements"
-    - title: Développement outils numériques
-      tagline: "LMS, télétravail, outils collaboratifs"
-    - title: Support & formation création d’entreprise
-      tagline: ""
-    - title: Création de sites web, blogs, logos
-      tagline: "Supports de formation professionnelle"
+  info:
+    - item: Pilotage de dispositifs de financements publics (Région, Département, CAF, SDJES, FONJEP, AR, QPV…) : montage, conventions, reporting, relation institutionnelle.
+    - item: Développement et gestion d’un portefeuille mécénat entreprises (conventions, CERFA, contreparties, journées solidaires).
+    - item: Organisation d’événements majeurs (Journées d’Automne, Transhumance, Assemblée Générale) et coordination inter‑pôles.
+    - item: Déploiement et administration d’outils numériques : Office 365, SharePoint, AzureAD, scripts PowerShell, Citrix/SAGE, GRIST, LMS, outils collaboratifs.
+    - item: Construction de la mesure d’impact social avec Antropia ESSEC (indicateurs, chaîne d’impact, reporting).
+    - item: Structuration des process internes, optimisation des outils collaboratifs, documentation et coordination des équipes.
+    - item: Obtention de l’appel d’offres AGEFICE pour BGE Parif (ingénierie, conformité, montage complet).
+    - item: Accompagnement à la création d’entreprise : support, formation, structuration des projets.
+    - item: Cession de COPLO Ingénierie : évaluation financière, préparation et vente du fonds de commerce.
+    - item: Structuration et pilotage du pôle “Solutions innovantes BTP” : développement d’activités, organisation, process.
+    - item: Montage et obtention de financements clients pour des projets de bâtiments industriels.
+    - item: Création de sites web, blogs, logos et supports professionnels pour la formation et la communication.
+
 
 publications:
   title: Publications
