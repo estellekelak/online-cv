@@ -38,6 +38,29 @@ sidebar:
       - item: Pédagogie
       - item: Numérique & outils collaboratifs
 
+  keyskills:
+    title: Compétences clés
+    info:
+      - item: Gestion de projets complexes
+      - item: Financements publics & mécénat
+      - item: Coordination multi‑acteurs
+      - item: Communication institutionnelle
+      - item: Administration Office 365 / SharePoint
+      - item: Analyse d’impact & RSO
+      - item: Organisation & structuration interne
+      
+  softskills:
+    title: Soft skills
+    info:
+      - item: Autonomie
+      - item: Polyvalence
+      - item: Sens de l’analyse
+      - item: Créativité
+      - item: Rigueur & fiabilité
+      - item: Leadership collaboratif
+      - item: Communication bienveillante
+
+
 career-profile:
   title: Profil
   summary: |
@@ -70,6 +93,23 @@ education:
 experiences:
   title: Expériences Professionnelles
   info:
+
+    - role: Chargée de mission stratégique – Coordination, financements & développement
+      time: 2022 – 2026
+      company: Ferme d’Écancourt
+      details: |
+        Pilotage transversal d’une structure associative complexe, avec responsabilité sur 8 domaines clés : financements publics, mécénat, communication, événementiel, numérique, impact social, coordination interne et RH.
+        Gestion simultanée de projets institutionnels, pédagogiques, financiers et techniques dans un environnement multi‑acteurs.
+
+        Réalisations majeures :
+        · Financements publics : montage et suivi de plus de 20 dispositifs (Région, Département, CAF, SDJES, FONJEP, Adulte‑Relais, QPV…), rédaction de conventions pluriannuelles, reporting complet, relation institutionnelle.
+        · Mécénat & partenariats : développement et fidélisation d’un portefeuille entreprises (Wavestone, Schenck, BNP…), conventions mécénat, CERFA, contreparties, journées solidaires.
+        · Gestion de projets & coordination : pilotage inter‑pôles, organisation d’événements (Journées d’Automne, Transhumance, AG), structuration de process internes, outils collaboratifs.
+        · Communication : stratégie réseaux sociaux, contenus institutionnels, site web, supports mécénat, rapports d’activité.
+        · Numérique & informatique : administration Office 365 / SharePoint / AzureAD, support informatique interne, scripts PowerShell, gestion SAGE via Citrix, bases de données GRIST.
+        · Impact social & RSO : collaboration avec Antropia ESSEC, construction d’indicateurs d’impact, bilan carbone, COPIL RSO.
+        · RH & organisation : recrutement, fiches de poste, intégration, formation interne, gestion des accès, optimisation des outils.
+
 
     - role: Formatrice Animatrice Conceptrice
       time: 2020 – 2021
@@ -128,9 +168,6 @@ experiences:
         · Comptabilité générale BNC, SCI, SARL
         · Révision des comptes annuels
 
-recommandations:
-  title: Recommandations
-  
 skills:
   title: Compétences
 
@@ -178,6 +215,26 @@ projects:
       tagline: ""
     - title: Création de sites web, blogs, logos
       tagline: "Supports de formation professionnelle"
+
+publications:
+  title: Publications
+  intro: |
+    Section disponible pour vos publications, articles, supports ou travaux pédagogiques.
+  papers:
+    - title: Exemple de publication
+      link: "#"
+      authors: Estelle Takaoka
+      conference: "À compléter si nécessaire"
+
+recommendations:
+  title: Recommandations
+  list:
+    - person: Exemple de personne
+      email:
+      phone:
+      role:
+      recommendation: |
+        Vous pouvez ajouter ici une recommandation professionnelle.
 
 footer: >
   Designed with ❤️ by Estelle Takaoka
