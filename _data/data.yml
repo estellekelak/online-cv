@@ -254,7 +254,7 @@ skills:
 projets:
   title: Réalisations
   info:
-    - item: Pilotage de dispositifs de financements publics (Région, Département, CAF, SDJES, FONJEP, AR, QPV…) : montage, conventions, reporting, relation institutionnelle.
+    - project: Pilotage de dispositifs de financements publics (Région, Département, CAF, SDJES, FONJEP, AR, QPV…) : montage, conventions, reporting, relation institutionnelle.
     - item: Développement et gestion d’un portefeuille mécénat entreprises (conventions, CERFA, contreparties, journées solidaires).
     - item: Organisation d’événements majeurs (Journées d’Automne, Transhumance, Assemblée Générale) et coordination inter‑pôles.
     - item: Déploiement et administration d’outils numériques : Office 365, SharePoint, AzureAD, scripts PowerShell, Citrix/SAGE, GRIST, LMS, outils collaboratifs.
