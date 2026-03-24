@@ -70,25 +70,78 @@ career-profile:
 education:
   title: Diplômes & Formations
   info:
-    - degree: Formatrice Consultante Certifiée RNCP niveau 6
+    - degree: Formation Fundraisers
+      university: Réseau Fundraisers
+      time: 2024
+      details: |
+        - Techniques avancées de collecte de fonds.
+        - Fidélisation, mécénat, campagnes, relation donateurs.
+
+    - degree: Stratégie de communication institutionnelle
+      university: Cergy
+      time: 2023
+      details: |
+        - Construction d’une stratégie éditoriale.
+        - Réseaux sociaux, communication publique, identité de marque.
+
+    - degree: Réussir une demande de subvention
+      university: Cergy / acteurs institutionnels
+      time: 2023
+      details: |
+        - Méthodologie de montage de dossiers.
+        - Analyse des critères, budgets, indicateurs, reporting.
+
+    - degree: Mécénat & partenariats – AGECIF
+      university: AGECIF
+      time: 2023
+      details: |
+        - Structuration d’une stratégie mécénat.
+        - Conventions, CERFA, contreparties, relation entreprises.
+
+    - degree: Fresque du Climat
+      university: Atelier de sensibilisation aux enjeux climatiques
+      time: 2022
+      details: |
+        - Compréhension systémique des mécanismes du changement climatique.
+        - Approche collaborative, intelligence collective, analyse d’impact.
+
+    - degree: Formateur·rice Consultant·e – Certification RNCP Niveau 6
       university: SIPCA, Nanterre
       time: 2019
-      details: ""
+      details: |
+        - Approche pédagogique centrée sur l’apprenant et l’accompagnement de tous les publics.
+        - Conception de séquences pédagogiques, ingénierie de formation et animation de groupes.
+        - Évaluation des compétences et adaptation des contenus selon les niveaux et besoins.
+        - Maîtrise des méthodes d’andragogie et des outils d’apprentissage actifs.
 
     - degree: Certificat "Learning How to Learn"
-      university: MOOC Coursera – Université de San Diego
+      university: MOOC Coursera – University of California San Diego
       time: 2018
-      details: ""
+      details: |
+        - Compréhension des mécanismes cognitifs d’apprentissage et de mémorisation.
+        - Techniques d’apprentissage efficaces
+        - Application de ces méthodes dans la conception de formations accessibles à tous publics.
+        - Approche scientifique de la pédagogie et vulgarisation des concepts pour les apprenants.
 
     - degree: Licence Sciences de l’Éducation (niveau)
-      university: Paris XII Créteil – Mention Éducation et Formation
+      university: Université Paris XII Créteil – Mention Éducation et Formation
       time: 2004
-      details: ""
+      details: |
+        - Bases théoriques en pédagogie, psychologie de l’éducation et sociologie des apprentissages.
+        - Analyse des besoins éducatifs et construction de dispositifs d’accompagnement.
+        - Étude des parcours d’adultes en reprise de formation et facteurs de réussite.
+        - Approche réflexive sur les pratiques éducatives et les dynamiques de groupe.
 
-    - degree: BTS Comptabilité Gestion
+    - degree: BTS Comptabilité et Gestion
       university: ENC Bessières, Paris
       time: 2003
-      details: ""
+      details: |
+        Maîtrise des outils de gestion, comptabilité générale et analytique.
+        Rigueur, organisation, gestion administrative et suivi de dossiers.
+        Compétences transférables à la gestion de projets de formation et au suivi des apprenants.
+        Capacité à structurer des processus, analyser des données et produire des supports clairs.
+
+
 
 experiences:
   title: Expériences Professionnelles
@@ -102,71 +155,72 @@ experiences:
         Gestion simultanée de projets institutionnels, pédagogiques, financiers et techniques dans un environnement multi‑acteurs.
 
         Réalisations majeures :
-        · Financements publics : montage et suivi de plus de 20 dispositifs (Région, Département, CAF, SDJES, FONJEP, Adulte‑Relais, QPV…), rédaction de conventions pluriannuelles, reporting complet, relation institutionnelle.
-        · Mécénat & partenariats : développement et fidélisation d’un portefeuille entreprises (Wavestone, Schenck, BNP…), conventions mécénat, CERFA, contreparties, journées solidaires.
-        · Gestion de projets & coordination : pilotage inter‑pôles, organisation d’événements (Journées d’Automne, Transhumance, AG), structuration de process internes, outils collaboratifs.
-        · Communication : stratégie réseaux sociaux, contenus institutionnels, site web, supports mécénat, rapports d’activité.
-        · Numérique & informatique : administration Office 365 / SharePoint / AzureAD, support informatique interne, scripts PowerShell, gestion SAGE via Citrix, bases de données GRIST.
-        · Impact social & RSO : collaboration avec Antropia ESSEC, construction d’indicateurs d’impact, bilan carbone, COPIL RSO.
-        · RH & organisation : recrutement, fiches de poste, intégration, formation interne, gestion des accès, optimisation des outils.
+        - Financements publics : montage et suivi de plus de 20 dispositifs (Région, Département, CAF, SDJES, FONJEP, Adulte‑Relais, QPV…), rédaction de conventions pluriannuelles, reporting complet, relation institutionnelle.
+        - Mécénat & partenariats : développement et fidélisation d’un portefeuille entreprises (Wavestone, Schenck, BNP…), conventions mécénat, CERFA, contreparties, journées solidaires.
+        - Gestion de projets & coordination : pilotage inter‑pôles, organisation d’événements (Journées d’Automne, Transhumance, AG), structuration de process internes, outils collaboratifs.
+        - Communication : stratégie réseaux sociaux, contenus institutionnels, site web, supports mécénat, rapports d’activité.
+        - Numérique & informatique : administration Office 365 / SharePoint / AzureAD, support informatique interne, scripts PowerShell, gestion SAGE via Citrix, bases de données GRIST.
+        - Impact social & RSO : collaboration avec Antropia ESSEC, construction d’indicateurs d’impact, bilan carbone, COPIL RSO.
+        - RH & organisation : recrutement, fiches de poste, intégration, formation interne, gestion des accès, optimisation des outils.
 
 
     - role: Formatrice Animatrice Conceptrice
       time: 2020 – 2021
       company: AFPA Nanterre
       details: |
-        · Formation au titre Gestionnaire Comptable et Fiscal (9 mois)
-        · Formation Gestionnaire de Tiers Lieux (1 semaine)
-        · Formation Informatique et Bureautique (6 semaines)
+        - Formation au titre Gestionnaire Comptable et Fiscal (9 mois)
+        - Formation Gestionnaire de Tiers Lieux (1 semaine)
+        - Formation Informatique et Bureautique (6 semaines)
 
     - role: Formatrice Consultante Indépendante
       time: 2019 – 2021
       company: COUNT ACT
       details: |
-        · Ingénierie de formation Groupe IGS
-        · Ingénierie pédagogique
-        · Animation de formation Manager de Business Unit
+        - Ingénierie de formation Groupe IGS
+        - Ingénierie pédagogique
+        - Animation de formation Manager de Business Unit
 
     - role: Stagiaire Formation Professionnelle Continue
       time: 2018 – 2019
       company: SNCF Transilien & BGE Paris
       details: |
-        · Analyse des besoins du commanditaire
-        · Scénarii pédagogiques
-        · Supports et catalogues
-        · Gamification des parcours pédagogiques
-        · Animation de formation
+        - Analyse des besoins du commanditaire
+        - Scénarii pédagogiques
+        - Supports et catalogues
+        - Gamification des parcours pédagogiques
+        - Animation de formation
 
     - role: Dirigeante
       time: 2017 – 2018
       company: COPLO Ingénierie – Ingénierie BTP
       details: |
-        · Évaluation financière de cession d’actifs
-        · Vente du fonds de commerce
-        · Développement clientèle et suivi des dossiers
+        - Évaluation financière de cession d’actifs
+        - Vente du fonds de commerce
+        - Développement clientèle et suivi des dossiers
 
     - role: Directrice Administrative et Financière
       time: 2014 – 2017
       company: COPLO Ingénierie – Ingénierie BTP
       details: |
-        · Comptabilité – Gestion – Finance
-        · Stratégie financière et développement des affaires
-        · Montage des dossiers de financement clients
+        - Comptabilité – Gestion – Finance
+        - Stratégie financière et développement des affaires
+        - Montage des dossiers de financement clients
 
     - role: Responsable Administrative et Financière
       time: 2006 – 2017
       company: CO.T.R.EX – Ingénierie BTP
       details: |
-        · Comptabilité – Gestion – Finance
-        · Management des équipes BTP (planning, réunions…)
-        · Coordination financière des projets BTP
+        - Comptabilité – Gestion – Finance
+        - Management des équipes BTP (planning, réunions…)
+        - Coordination financière des projets BTP
 
     - role: Comptable
       time: 2000 – 2006
       company: Diverses entreprises
       details: |
-        · Comptabilité générale BNC, SCI, SARL
-        · Révision des comptes annuels
+        - Comptabilité générale BNC, SCI, SARL
+        - Révision des comptes annuels
+        - Analyse de bilans
 
 skills:
   title: Compétences
