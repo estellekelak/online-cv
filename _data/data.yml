@@ -251,21 +251,59 @@ skills:
       level: 85%
 
 
-projets:
+projects:
   title: Réalisations
   intro: >
-    - title: Pilotage de dispositifs de financements publics (Région, Département, CAF, SDJES, FONJEP, AR, QPV…) | montage, conventions, reporting, relation institutionnelle.
-    - title: Développement et gestion d’un portefeuille mécénat entreprises (conventions, CERFA, contreparties, journées solidaires).
-    - title: Organisation d’événements majeurs (Journées d’Automne, Transhumance, Assemblée Générale) et coordination inter‑pôles.
-    - title: Déploiement et administration d’outils numériques | Office 365, SharePoint, AzureAD, scripts PowerShell, Citrix/SAGE, GRIST, LMS, outils collaboratifs.
-    - title: Construction de la mesure d’impact social avec Antropia ESSEC (indicateurs, chaîne d’impact, reporting).
-    - title: Structuration des process internes, optimisation des outils collaboratifs, documentation et coordination des équipes.
-    - title: Obtention de l’appel d’offres AGEFICE pour BGE Parif (ingénierie, conformité, montage complet).
-    - title: Accompagnement à la création d’entreprise | support, formation, structuration des projets.
-    - title: Cession de COPLO Ingénierie | évaluation financière, préparation et vente du fonds de commerce.
-    - title: Structuration et pilotage du pôle “Solutions innovantes BTP” | développement d’activités, organisation, process.
-    - title: Montage et obtention de financements clients pour des projets de bâtiments industriels.
-    - title: Création de sites web, blogs, logos et supports professionnels pour la formation et la communication.
+    Sélection de réalisations transversales en financement, mécénat, structuration, numérique et accompagnement de projets.
+  assignments:
+    - title: Pilotage de financements publics
+      link: "#"
+      tagline: "Pilotage de dispositifs de financements publics (Région, Département, CAF, SDJES, FONJEP, AR, QPV…) : montage, conventions, reporting, relation institutionnelle."
+
+    - title: Portefeuille mécénat entreprises
+      link: "#"
+      tagline: "Développement et gestion d’un portefeuille mécénat (conventions, CERFA, contreparties, journées solidaires)."
+
+    - title: Événements majeurs & coordination
+      link: "#"
+      tagline: "Organisation des Journées d’Automne, Transhumance, Assemblée Générale et coordination inter‑pôles."
+
+    - title: Administration numérique & outils
+      link: "#"
+      tagline: "Déploiement et administration d’outils numériques : Office 365, SharePoint, AzureAD, scripts PowerShell, Citrix/SAGE, GRIST, LMS, outils collaboratifs."
+
+    - title: Mesure d’impact social
+      link: "#"
+      tagline: "Construction de la mesure d’impact social avec Antropia ESSEC (indicateurs, chaîne d’impact, reporting)."
+
+    - title: Structuration interne
+      link: "#"
+      tagline: "Structuration des process internes, optimisation des outils collaboratifs, documentation et coordination des équipes."
+
+    - title: Appel d’offres AGEFICE
+      link: "#"
+      tagline: "Obtention de l’appel d’offres AGEFICE pour BGE Parif (ingénierie, conformité, montage complet)."
+
+    - title: Accompagnement à la création d’entreprise
+      link: "#"
+      tagline: "Support, formation et structuration de projets de création d’entreprise."
+
+    - title: Cession de COPLO Ingénierie
+      link: "#"
+      tagline: "Évaluation financière, préparation et vente du fonds de commerce."
+
+    - title: Pôle Solutions innovantes BTP
+      link: "#"
+      tagline: "Structuration et pilotage du pôle Solutions innovantes BTP : développement d’activités, organisation, process."
+
+    - title: Financements bâtiments industriels
+      link: "#"
+      tagline: "Montage et obtention de financements clients pour des projets de bâtiments industriels."
+
+    - title: Création de supports & sites
+      link: "#"
+      tagline: "Création de sites web, blogs, logos et supports professionnels pour la formation et la communication."
+
 
 
 publications:
