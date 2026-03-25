@@ -265,10 +265,6 @@ projects:
       link: "#"
       tagline: "Développement et gestion d’un portefeuille mécénat (conventions, CERFA, contreparties, journées solidaires)."
 
-    - title: Événements majeurs & coordination
-      link: "#"
-      tagline: "Organisation des Journées d’Automne, Transhumance, Assemblée Générale et coordination inter‑pôles."
-
     - title: Administration numérique & outils
       link: "#"
       tagline: "Déploiement et administration d’outils numériques : Office 365, SharePoint, AzureAD, scripts PowerShell, Citrix/SAGE, GRIST, LMS, outils collaboratifs."
