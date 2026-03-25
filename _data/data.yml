@@ -35,16 +35,17 @@ sidebar:
   interests:
     title: Centres d’intérêt
     info:
-      - item: Création graphique
-      - item: Pédagogie
+      - item: Crochet
+      - item: Psychologie, physiologie et bien être 
+      - item: Pédagogie, andragogie
       - item: Numérique & outils collaboratifs
 
   keyskills:
     title: Compétences clés
     info:
-      - item: Coordination transversale & pilotage multi‑pôles
+      - item: Coordination transversale
       - item: Financements publics & mécénat
-      - item: Coordination multi‑acteurs
+      - item: Pilotage multi‑acteurs & multipoles
       - item: Communication & stratégie éditoriale
       - item: Ingénierie pédagogique
       - item: Analyse d’impact & RSO
@@ -57,9 +58,9 @@ sidebar:
     info:
       - item: Autonomie & sens des responsabilités
       - item: Polyvalence & adaptabilité
-      - item: Analyse & prise de recul
+      - item: Analyse des dynamiques et compréhension structurée des enjeux
       - item: Communication bienveillante
-      - item: Leadership collaboratif
+      - item: Facilitation & coopération 
       - item: Créativité & résolution de problèmes
       - item: Rigueur & fiabilité
 
@@ -108,7 +109,7 @@ education:
         - Compréhension systémique des mécanismes du changement climatique.
         - Approche collaborative, intelligence collective, analyse d’impact.
 
-    - degree: Formateur·rice Consultant·e – Certification RNCP Niveau 6
+    - degree: Formatrice Consultante – Certification RNCP Niveau 6
       university: SIPCA, Nanterre
       time: 2019
       details: |
@@ -150,7 +151,7 @@ experiences:
   title: Expériences Professionnelles
   info:
 
-    - role: Chargée de mission stratégique – Coordination, financements & développement
+    - role: Chargée de mission subventions & mécénats
       time: 2022 – 2026
       company: Ferme d’Écancourt
       details: |
@@ -159,8 +160,8 @@ experiences:
 
         Réalisations majeures :
         - Financements publics : montage et suivi de plus de 20 dispositifs (Région, Département, CAF, SDJES, FONJEP, Adulte‑Relais, QPV…), rédaction de conventions pluriannuelles, reporting complet, relation institutionnelle.
-        - Mécénat & partenariats : développement et fidélisation d’un portefeuille entreprises (Wavestone, Schenck, BNP…), conventions mécénat, CERFA, contreparties, journées solidaires.
-        - Gestion de projets & coordination : pilotage inter‑pôles, organisation d’événements (Journées d’Automne, Transhumance, AG), structuration de process internes, outils collaboratifs.
+        - Mécénat & partenariats : développement et fidélisation d’un portefeuille entreprises (Wavestone, Allianz, BNP…), conventions mécénat, CERFA, contreparties, journées solidaires.
+        - Gestion de projets & coordination : pilotage inter‑pôles, participation aux événements (Journées d’Automne, Transhumance, AG), structuration de process internes, outils collaboratifs.
         - Communication : stratégie réseaux sociaux, contenus institutionnels, site web, supports mécénat, rapports d’activité.
         - Numérique & informatique : administration Office 365 / SharePoint / AzureAD, support informatique interne, scripts PowerShell, gestion SAGE via Citrix, bases de données GRIST.
         - Impact social & RSO : collaboration avec Antropia ESSEC, construction d’indicateurs d’impact, bilan carbone, COPIL RSO.
@@ -171,7 +172,7 @@ experiences:
       time: 2020 – 2021
       company: AFPA Nanterre
       details: |
-        - Formation au titre Gestionnaire Comptable et Fiscal (9 mois)
+        - Intervention sur la formation au titre Gestionnaire Comptable et Fiscal (6 mois)
         - Formation Gestionnaire de Tiers Lieux (1 semaine)
         - Formation Informatique et Bureautique (6 semaines)
 
