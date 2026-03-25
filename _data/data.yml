@@ -157,7 +157,7 @@ experiences:
       time: 2022 – 2026
       company: Ferme d’Écancourt
       details: |
-        Pilotage transversal d’une structure associative complexe, avec responsabilité sur 8 domaines clés : financements publics, mécénat, communication, événementiel, numérique, impact social, coordination interne et RH.
+        Pilotage transversal d’une structure associative complexe, avec responsabilité sur 8 domaines clés ':' financements publics, mécénat, communication, événementiel, numérique, impact social, coordination interne et RH.
         Gestion simultanée de projets institutionnels, pédagogiques, financiers et techniques dans un environnement multi‑acteurs.
       Missions :
         - Financements publics : montage et suivi de plus de 20 dispositifs (Région, Département, CAF, SDJES, FONJEP, Adulte‑Relais, QPV…), rédaction de conventions pluriannuelles, reporting complet, relation institutionnelle.
@@ -167,7 +167,6 @@ experiences:
         - Numérique & informatique : administration Office 365 / SharePoint / AzureAD, support informatique interne, scripts PowerShell, gestion SAGE via Citrix, bases de données GRIST.
         - Impact social & RSO : collaboration avec Antropia ESSEC, construction d’indicateurs d’impact, bilan carbone, COPIL RSO.
         - RH & organisation : recrutement, fiches de poste, intégration, formation interne, gestion des accès, optimisation des outils.
-
 
     - role: Formatrice Animatrice Conceptrice
       time: 2020 – 2021
