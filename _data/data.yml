@@ -43,16 +43,18 @@ sidebar:
   keyskills:
     title: Compétences clés
     info:
-      - item: Coordination transversale
-      - item: Financements publics & mécénat
+      - item: Gestion de projets & coordination transversale
+      - item: Financements publics, mécénat & partenariat entreprises
+      - item: Comptabilité – Gestion – Analyse & stratégie financière
       - item: Pilotage multi‑acteurs & multipoles
+      - item: Outils collaboratifs & travail en équipe
+      - item: Administration Office 365 / SharePoint / AzureAD 
       - item: Communication & stratégie éditoriale
-      - item: Ingénierie pédagogique
-      - item: Analyse d’impact & RSO
+      - item: Création de contenus & supports professionnels
+      - item: Ingénierie pédagogique & animation
+      - item: Analyse d’impact écologique et social & RSO
       - item: Organisation & structuration interne
-      - item: Gestion, financement et comptabilité
 
-      
   softskills:
     title: Soft skills
     info:
@@ -226,48 +228,22 @@ experiences:
         - Révision des comptes annuels
         - Analyse de bilans
 
-skills:
-  title: Compétences
-
-  toolset:
-    - name: Gestion de projets & coordination
-      level: 100%
-    - name: Financements publics & montage de dossiers
-      level: 100%
-    - name: Mécénat & partenariats entreprises
-      level: 100%
-    - name: Communication institutionnelle & stratégie éditoriale
-      level: 95%
-    - name: Ingénierie pédagogique & animation
-      level: 100%
-    - name: Comptabilité – Gestion – Analyse financière
-      level: 95%
-    - name: Administration Office 365 / SharePoint / AzureAD
-      level: 90%
-    - name: Outils collaboratifs & travail en équipe
-      level: 95%
-    - name: Création de contenus & supports professionnels
-      level: 90%
-    - name: Transition écologique & impact social
-      level: 85%
-
 
 projects:
   title: Réalisations
   intro: >
-    Sélection de réalisations transversales en financement, mécénat, structuration, numérique et accompagnement de projets.
   assignments:
-    - title: Pilotage de financements publics
+    - title: Pilotage de financements publics | Obtention d'une subvention exceptionnelle de 90.000 euros auprès de la Communauté d'Agglomération
       link: "#"
       tagline: "Pilotage de dispositifs de financements publics (Région, Département, CAF, SDJES, FONJEP, AR, QPV…) : montage, conventions, reporting, relation institutionnelle."
 
     - title: Portefeuille mécénat entreprises
       link: "#"
-      tagline: "Développement et gestion d’un portefeuille mécénat (conventions, CERFA, contreparties, journées solidaires)."
+      tagline: "Développement et gestion d’un portefeuille mécénat +100%/an(conventions, CERFA, contreparties, journées solidaires)."
 
     - title: Administration numérique & outils
       link: "#"
-      tagline: "Déploiement et administration d’outils numériques : Office 365, SharePoint, AzureAD, scripts PowerShell, Citrix/SAGE, GRIST, LMS, outils collaboratifs."
+      tagline: "Déploiement et administration d’outils numériques : Office 365, SharePoint, AzureAD, PowerShell, Citrix/SAGE, GRIST, notion, obsidian, airtable, IA"
 
     - title: Mesure d’impact social
       link: "#"
@@ -275,7 +251,7 @@ projects:
 
     - title: Structuration interne
       link: "#"
-      tagline: "Structuration des process internes, optimisation des outils collaboratifs, documentation et coordination des équipes."
+      tagline: "Structuration des process internes, optimisation des outils collaboratifs, documentations"
 
     - title: Appel d’offres AGEFICE
       link: "#"
@@ -283,7 +259,7 @@ projects:
 
     - title: Accompagnement à la création d’entreprise
       link: "#"
-      tagline: "Support, formation et structuration de projets de création d’entreprise."
+      tagline: "Support, formation et structuration de projets de création d’entreprise : + de 10 entreprises accompagnées "
 
     - title: Cession de COPLO Ingénierie
       link: "#"
